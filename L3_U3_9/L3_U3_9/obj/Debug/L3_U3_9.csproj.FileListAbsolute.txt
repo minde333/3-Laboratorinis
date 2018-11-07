@@ -1,0 +1,7 @@
+C:\Users\Vartotojas\Desktop\L3_U3_9\L3_U3_9\bin\Debug\L3_U3_9.exe.config
+C:\Users\Vartotojas\Desktop\L3_U3_9\L3_U3_9\bin\Debug\L3_U3_9.exe
+C:\Users\Vartotojas\Desktop\L3_U3_9\L3_U3_9\bin\Debug\L3_U3_9.pdb
+C:\Users\Vartotojas\Desktop\L3_U3_9\L3_U3_9\obj\Debug\L3_U3_9.csprojAssemblyReference.cache
+C:\Users\Vartotojas\Desktop\L3_U3_9\L3_U3_9\obj\Debug\L3_U3_9.csproj.CoreCompileInputs.cache
+C:\Users\Vartotojas\Desktop\L3_U3_9\L3_U3_9\obj\Debug\L3_U3_9.exe
+C:\Users\Vartotojas\Desktop\L3_U3_9\L3_U3_9\obj\Debug\L3_U3_9.pdb
